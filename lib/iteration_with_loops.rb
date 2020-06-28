@@ -8,7 +8,6 @@ def find_even_values(src)
         inner_count+=1
        else
         inner_count+=1
-      
       end
       end
     count+=1
